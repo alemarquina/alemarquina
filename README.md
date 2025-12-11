@@ -6,13 +6,11 @@ Want to know more about me?
 
   <p>
     <a href="www.linkedin.com/in/alessandro-arias-marquina-714412285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alessandro-arias-marquina-  714412285)]www.linkedin.com/in/alessandro-arias-marquina-714412285"></a>
-  <a href="https://www.hackerrank.com/h_g_d_sandakalum" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
-    <a href="https://www.instagram.com/lucian_craxker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucian_craxker/)](https://www.instagram.com/lucian_craxker/)">  </a>
-    <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
-    <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
+    <a href="https://www.instagram.com/lucian_craxker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucian_craxker/)](https://www.instagram.com/lucian_craxker/">  </a>
+    <a href="https://gitlab.com/alemarquina789"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://gitlab.com/alemarquina789)](https://gitlab.com/alemarquina789"></a>
   </p>
 
-## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="10px">
+## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Flutter](https://img.shields.io/badge/Flutter-25A6D5?style=for-the-badge&logo=Flutter&logoColor=white)
