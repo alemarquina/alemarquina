@@ -1,18 +1,18 @@
-<h1>Hi there, I'm Sandakalum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+<h1>Hi there, I'm Alessandro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></h1>   
 
 I am a software developer specializing in the implementation of business systems and the creation of autonomous systems. By the way, I am also a music lover.
 
 Want to know more about me? 
 
   <p>
-    <a href="www.linkedin.com/in/alessandro-arias-marquina-714412285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alessandro-arias-marquina-  714412285)]www.linkedin.com/in/alessandro-arias-marquina-714412285"></a>
-    <a href="https://www.instagram.com/lucian_craxker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucian_craxker/)](https://www.instagram.com/lucian_craxker/">  </a>
+    <a href="www.linkedin.com/in/alessandro-arias-marquina-714412285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alessandro-arias-marquina-      714412285)]www.linkedin.com/in/alessandro-arias-marquina-714412285"></a>
+    <a href="https://www.instagram.com/lucian_craxker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucian_craxker/)](https://www.instagram.com/lucian_craxker/">       </a>
     <a href="https://gitlab.com/alemarquina789"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://gitlab.com/alemarquina789)](https://gitlab.com/alemarquina789"></a>
   </p>
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge)  
 ![Flutter](https://img.shields.io/badge/Flutter-25A6D5?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
