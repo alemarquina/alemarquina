@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Alessandro</h1>   
 
-I am a software developer specializing in the implementation of business systems and the creation of autonomous systems. By the way, I am also a music lover.
+I'm a software developer specializing in the implementation of business systems and the creation of autonomous systems. By the way, I am also a music lover.
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
