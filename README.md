@@ -23,6 +23,8 @@ Want to know more about me?
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+  <img src="https://i.pinimg.com/736x/10/a5/85/10a585dca53d10ee3ad6a1aefd97b9ef.jpg"/>
   
 </div>
 
