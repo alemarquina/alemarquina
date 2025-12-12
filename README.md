@@ -7,8 +7,9 @@ Want to know more about me?
 <p>
     <a href="www.linkedin.com/in/alessandro-arias-marquina-714412285" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-arias-marquina-714412285/)](https://www.linkedin.com/in/alessandro-arias-marquina-714412285/"></a>
     <a href="https://www.instagram.com/lucian_craxker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucian_craxker/)](https://www.instagram.com/lucian_craxker/"></a>
+    <a href="https://discord.com/invite/nn2TjFA9"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/invite/nn2TjFA9)](https://discord.com/invite/nn2TjFA9"></a>
+    <a href="https://mailto:alemarquina789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:alemarquina789@gmail.com)](https://mailto:alemarquina789@gmail.com"></a>    
     <a href="https://gitlab.com/alemarquina789"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/alemarquina789)](https://gitlab.com/alemarquina789"></a>
-    <a href="https://mailto:alemarquina789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:alemarquina789@gmail.com)](https://mailto:alemarquina789@gmail.com"></a>
 </p>
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
