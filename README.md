@@ -1,5 +1,4 @@
 <table border="0">
-  <tr>
     <td width="60%" valign="top">
       <h1>Hi there, I'm Alessandro <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h1>      
       <p>
@@ -27,6 +26,5 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://i.pinimg.com/736x/10/a5/85/10a585dca53d10ee3ad6a1aefd97b9ef.jpg" width="100%" style="border-radius: 10px;"/>
-    </td>
-  </tr>
+    </td>  
 </table>
