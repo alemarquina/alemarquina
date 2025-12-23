@@ -3,7 +3,7 @@
 I'm a software developer specializing in the implementation of business systems and the creation of autonomous systems. By the way, I'm also a music lover.
 
 ### Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="14px">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 13px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     
   ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
